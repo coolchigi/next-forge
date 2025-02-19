@@ -1,3 +1,155 @@
+# v3.2.26 (Mon Feb 17 2025)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, Justin Barsketis ([@barsketis](https://github.com/barsketis)), for all your work!
+
+#### 🐛 Bug Fix
+
+- Prisma fixes [#452](https://github.com/haydenbleasel/next-forge/pull/452) ([@haydenbleasel](https://github.com/haydenbleasel) [@barsketis](https://github.com/barsketis))
+
+#### Authors: 2
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Justin Barsketis ([@barsketis](https://github.com/barsketis))
+
+---
+
+# v3.2.25 (Sun Feb 16 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Update next-config.ts ([@haydenbleasel](https://github.com/haydenbleasel))
+- Bump deps ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v3.2.24 (Fri Feb 14 2025)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, Dan Billson ([@danbillson](https://github.com/danbillson)), for all your work!
+
+#### 🐛 Bug Fix
+
+- Add 'Switch to Paddle Billing' migration guide [#450](https://github.com/haydenbleasel/next-forge/pull/450) ([@danbillson](https://github.com/danbillson) [@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 2
+
+- Dan Billson ([@danbillson](https://github.com/danbillson))
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v3.2.23 (Mon Feb 10 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Fix client-side posthog implementation ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v3.2.22 (Mon Feb 10 2025)
+
+#### 🐛 Bug Fix
+
+- Upgrade [#447](https://github.com/haydenbleasel/next-forge/pull/447) ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v3.2.21 (Sun Feb 09 2025)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, YuCheng Chen ([@shamenchens](https://github.com/shamenchens)), for all your work!
+
+#### 🐛 Bug Fix
+
+- feat: Use Link component for sidebar links [#441](https://github.com/haydenbleasel/next-forge/pull/441) ([@shamenchens](https://github.com/shamenchens))
+
+#### ⚠️ Pushed to `main`
+
+- Update to pnpm 10 ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### 🔩 Dependency Updates
+
+- Bump @storybook/nextjs from 8.5.0 to 8.5.3 [#444](https://github.com/haydenbleasel/next-forge/pull/444) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @radix-ui/react-dropdown-menu from 2.1.5 to 2.1.6 [#445](https://github.com/haydenbleasel/next-forge/pull/445) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump the npm_and_yarn group with 2 updates [#446](https://github.com/haydenbleasel/next-forge/pull/446) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump recharts from 2.15.0 to 2.15.1 [#430](https://github.com/haydenbleasel/next-forge/pull/430) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump chromatic from 11.25.0 to 11.25.2 [#428](https://github.com/haydenbleasel/next-forge/pull/428) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @clerk/themes from 2.2.9 to 2.2.16 [#429](https://github.com/haydenbleasel/next-forge/pull/429) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump require-in-the-middle from 7.4.0 to 7.5.0 [#431](https://github.com/haydenbleasel/next-forge/pull/431) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump turbo from 2.3.3 to 2.4.0 [#432](https://github.com/haydenbleasel/next-forge/pull/432) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @next/bundle-analyzer from 15.1.5 to 15.1.6 [#433](https://github.com/haydenbleasel/next-forge/pull/433) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @radix-ui/react-dropdown-menu from 2.1.4 to 2.1.5 [#435](https://github.com/haydenbleasel/next-forge/pull/435) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump basehub from 8.1.1 to 8.1.9 [#436](https://github.com/haydenbleasel/next-forge/pull/436) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @prisma/client from 6.2.1 to 6.3.0 [#437](https://github.com/haydenbleasel/next-forge/pull/437) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 3
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- YuCheng Chen ([@shamenchens](https://github.com/shamenchens))
+
+---
+
+# v3.2.20 (Mon Feb 03 2025)
+
+#### ⚠️ Pushed to `main`
+
+- For #367 ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### 🔩 Dependency Updates
+
+- Bump the npm_and_yarn group with 2 updates [#423](https://github.com/haydenbleasel/next-forge/pull/423) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v3.2.19 (Tue Jan 28 2025)
+
+:tada: This release contains work from new contributors! :tada:
+
+Thanks for all your work!
+
+:heart: Michal Bock ([@SpeedyCoder](https://github.com/SpeedyCoder))
+
+:heart: Miraan Tabrez ([@miraan](https://github.com/miraan))
+
+#### 🐛 Bug Fix
+
+- Add 'Switch to Hypertune' migration guide [#422](https://github.com/haydenbleasel/next-forge/pull/422) ([@SpeedyCoder](https://github.com/SpeedyCoder) [@miraan](https://github.com/miraan))
+
+#### ⚠️ Pushed to `main`
+
+- Compress images ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update hypertune.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 3
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Michal Bock ([@SpeedyCoder](https://github.com/SpeedyCoder))
+- Miraan Tabrez ([@miraan](https://github.com/miraan))
+
+---
+
 # v3.2.18 (Tue Jan 21 2025)
 
 #### ⚠️ Pushed to `main`
