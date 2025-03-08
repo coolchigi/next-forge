@@ -1,3 +1,95 @@
+# v3.3.4 (Thu Mar 06 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Fix languages ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v3.3.3 (Thu Mar 06 2025)
+
+#### 🐛 Bug Fix
+
+- Add more Languine keys [#475](https://github.com/haydenbleasel/next-forge/pull/475) ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v3.3.2 (Thu Mar 06 2025)
+
+#### ⚠️ Pushed to `main`
+
+- For #474 ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v3.3.1 (Wed Mar 05 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Update overview.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v3.3.0 (Wed Mar 05 2025)
+
+#### 🚀 Enhancement
+
+- Internationalization and Languine [#473](https://github.com/haydenbleasel/next-forge/pull/473) ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### 📝 Documentation
+
+- Dub [#455](https://github.com/haydenbleasel/next-forge/pull/455) ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v3.2.28 (Mon Mar 03 2025)
+
+#### 🐛 Bug Fix
+
+- Upgrade deps [#470](https://github.com/haydenbleasel/next-forge/pull/470) ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v3.2.27 (Wed Feb 26 2025)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, Andrés Filoso ([@andresfiloso](https://github.com/andresfiloso)), for all your work!
+
+#### 🐛 Bug Fix
+
+- Add Knock environment variables to .env.example [#457](https://github.com/haydenbleasel/next-forge/pull/457) ([@andresfiloso](https://github.com/andresfiloso))
+
+#### Authors: 1
+
+- Andrés Filoso ([@andresfiloso](https://github.com/andresfiloso))
+
+---
+
 # v3.2.26 (Mon Feb 17 2025)
 
 :tada: This release contains work from a new contributor! :tada:
