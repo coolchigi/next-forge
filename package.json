@@ -1,6 +1,6 @@
 {
   "name": "next-forge",
-  "version": "3.3.4",
+  "version": "3.3.7",
   "bin": {
     "next-forge": "dist/index.js"
   },
@@ -15,7 +15,8 @@
     "test": "turbo test",
     "analyze": "turbo analyze",
     "translate": "turbo translate",
-    "bump-deps": "npx npm-check-updates --deep -u -x react-day-picker,tailwindcss && pnpm install",
+    "boundaries": "turbo boundaries",
+    "bump-deps": "npx npm-check-updates --deep -u -x react-day-picker && pnpm install",
     "bump-ui": "npx shadcn@latest add --all --overwrite -c packages/design-system",
     "migrate": "cd packages/database && npx prisma format && npx prisma generate && npx prisma db push",
     "clean": "git clean -xdf node_modules"
