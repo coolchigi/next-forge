@@ -4,22 +4,22 @@
   "private": true,
   "scripts": {
     "build": "email build",
-    "dev": "email dev --port 3003",
+    "dev": "email dev --port 3003 --dir ../../packages/email/templates",
     "export": "email export",
     "clean": "git clean -xdf .cache .turbo dist node_modules",
     "typecheck": "tsc --noEmit --emitDeclarationOnly false"
   },
   "dependencies": {
-    "@react-email/components": "0.0.33",
+    "@react-email/components": "0.0.41",
     "@repo/email": "workspace:*",
-    "react": "19.0.0",
-    "react-email": "3.0.7"
+    "react": "19.1.0",
+    "react-email": "4.0.15"
   },
   "devDependencies": {
     "@repo/typescript-config": "workspace:*",
-    "@types/node": "22.13.9",
-    "@types/react": "19.0.10",
-    "next": "15.1.7",
-    "typescript": "^5.8.2"
+    "@types/node": "22.15.21",
+    "@types/react": "19.1.5",
+    "next": "15.3.2",
+    "typescript": "^5.8.3"
   }
 }

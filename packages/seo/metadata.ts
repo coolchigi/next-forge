@@ -9,11 +9,13 @@ type MetadataGenerator = Omit<Metadata, 'description' | 'title'> & {
 
 const applicationName = 'next-forge';
 const author: Metadata['authors'] = {
-  name: 'Hayden Bleasel',
-  url: 'https://haydenbleasel.com/',
+  name: 'Vercel',
+  url: 'https://vercel.com/',
 };
-const publisher = 'Hayden Bleasel';
-const twitterHandle = '@haydenbleasel';
+const publisher = 'Vercel';
+const twitterHandle = '@vercel';
+const protocol = process.env.NODE_ENV === 'production' ? 'https' : 'http';
+const productionUrl = process.env.VERCEL_PROJECT_PRODUCTION_URL;
 
 export const createMetadata = ({
   title,
@@ -26,6 +28,9 @@ export const createMetadata = ({
     title: parsedTitle,
     description,
     applicationName,
+    metadataBase: productionUrl
+      ? new URL(`${protocol}://${productionUrl}`)
+      : undefined,
     authors: [author],
     creator: author.name,
     formatDetection: {

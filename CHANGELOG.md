@@ -1,3 +1,485 @@
+# v5.0.4 (Tue Jul 15 2025)
+
+#### 🐛 Bug Fix
+
+- Improve Metabase integration instructions [#601](https://github.com/vercel/next-forge/pull/601) ([@matthewhefferon](https://github.com/matthewhefferon))
+
+#### Authors: 1
+
+- Matthew Hefferon ([@matthewhefferon](https://github.com/matthewhefferon))
+
+---
+
+# v5.0.3 (Mon Jul 14 2025)
+
+:tada: This release contains work from new contributors! :tada:
+
+Thanks for all your work!
+
+:heart: Karel Vuong ([@karelvuong](https://github.com/karelvuong))
+
+:heart: Choco ([@chocochu](https://github.com/chocochu))
+
+#### 🐛 Bug Fix
+
+- fix: correct google analytics env [#600](https://github.com/vercel/next-forge/pull/600) ([@karelvuong](https://github.com/karelvuong))
+- add mobile menu [#574](https://github.com/vercel/next-forge/pull/574) ([@chocochu](https://github.com/chocochu))
+
+#### Authors: 2
+
+- Choco ([@chocochu](https://github.com/chocochu))
+- Karel Vuong ([@karelvuong](https://github.com/karelvuong))
+
+---
+
+# v5.0.2 (Thu Jun 05 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Update meta.json ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v5.0.1 (Mon Jun 02 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Fix min-widths ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v5.0.0 (Mon Jun 02 2025)
+
+#### 💥 Breaking Change
+
+- ▲ [#561](https://github.com/vercel/next-forge/pull/561) ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v4.4.5 (Sun Jun 01 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Remove redundant email component ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v4.4.4 (Mon May 26 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Roll back Prisma updates ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v4.4.3 (Mon May 26 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Resolves #537 ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v4.4.2 (Sun May 25 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Fix broken links in code ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v4.4.1 (Sun May 25 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Add link validation script ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #369 ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v4.4.0 (Sun May 25 2025)
+
+#### 🚀 Enhancement
+
+- Migrate docs and landing page to Fumadocs [#548](https://github.com/haydenbleasel/next-forge/pull/548) ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v4.3.2 (Sun May 25 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Update api.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v4.3.1 (Sun May 25 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Resolves #352 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Make webhook endpoint names provider agnostic ([@haydenbleasel](https://github.com/haydenbleasel))
+- Skip CI builds ([@haydenbleasel](https://github.com/haydenbleasel))
+- Build fixes ([@haydenbleasel](https://github.com/haydenbleasel))
+- Bump deps ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v4.3.0 (Sun May 25 2025)
+
+#### 🚀 Enhancement
+
+- Bump @prisma/nextjs-monorepo-workaround-plugin from 6.6.0 to 6.7.0 [#534](https://github.com/haydenbleasel/next-forge/pull/534) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @liveblocks/react from 2.22.3 to 2.24.1 [#536](https://github.com/haydenbleasel/next-forge/pull/536) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🐛 Bug Fix
+
+- Bump @next/third-parties from 15.3.0 to 15.3.1 [#530](https://github.com/haydenbleasel/next-forge/pull/530) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump recharts from 2.15.2 to 2.15.3 [#532](https://github.com/haydenbleasel/next-forge/pull/532) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @radix-ui/react-menubar from 1.1.7 to 1.1.12 [#535](https://github.com/haydenbleasel/next-forge/pull/535) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 1
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+
+---
+
+# v4.2.16 (Tue May 20 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Resolves #516 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #527 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #543 ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v4.2.15 (Tue May 20 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Revert Clerk keyless change (not ready for prod) ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #544 ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v4.2.14 (Tue May 20 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Misc fixes ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v4.2.13 (Tue May 20 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Update vercel.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Implement Clerk keyless mode ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v4.2.12 (Tue May 20 2025)
+
+#### 🐛 Bug Fix
+
+- fix(web): add missing 'mx-auto' on container in BlogPost page - fix #545 [#547](https://github.com/haydenbleasel/next-forge/pull/547) ([@QuentinFrc](https://github.com/QuentinFrc))
+
+#### Authors: 1
+
+- Quentin ([@QuentinFrc](https://github.com/QuentinFrc))
+
+---
+
+# v4.2.11 (Sun May 18 2025)
+
+#### 🐛 Bug Fix
+
+- fix: language switcher [#541](https://github.com/haydenbleasel/next-forge/pull/541) ([@jpvalery](https://github.com/jpvalery))
+
+#### Authors: 1
+
+- Jp ([@jpvalery](https://github.com/jpvalery))
+
+---
+
+# v4.2.10 (Sat May 10 2025)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, Quentin ([@QuentinFrc](https://github.com/QuentinFrc)), for all your work!
+
+#### 🐛 Bug Fix
+
+- Enhanced better-auth migration docs [#542](https://github.com/haydenbleasel/next-forge/pull/542) ([@QuentinFrc](https://github.com/QuentinFrc))
+
+#### Authors: 1
+
+- Quentin ([@QuentinFrc](https://github.com/QuentinFrc))
+
+---
+
+# v4.2.9 (Fri May 09 2025)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, Jp ([@jpvalery](https://github.com/jpvalery)), for all your work!
+
+#### 🐛 Bug Fix
+
+- fix: metadataBase [#540](https://github.com/haydenbleasel/next-forge/pull/540) ([@jpvalery](https://github.com/jpvalery) [@haydenbleasel](https://github.com/haydenbleasel))
+- fix: add success color variable [#538](https://github.com/haydenbleasel/next-forge/pull/538) ([@jpvalery](https://github.com/jpvalery) [@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 2
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Jp ([@jpvalery](https://github.com/jpvalery))
+
+---
+
+# v4.2.8 (Wed Apr 23 2025)
+
+#### 🐛 Bug Fix
+
+- Update Turborepo documentation link. [#526](https://github.com/haydenbleasel/next-forge/pull/526) ([@anthonyshew](https://github.com/anthonyshew))
+
+#### Authors: 1
+
+- Anthony Shew ([@anthonyshew](https://github.com/anthonyshew))
+
+---
+
+# v4.2.7 (Tue Apr 22 2025)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, Uma Shankar ([@maverickdude](https://github.com/maverickdude)), for all your work!
+
+#### 🐛 Bug Fix
+
+- Fix a typo in debugging.mdx [#524](https://github.com/haydenbleasel/next-forge/pull/524) ([@maverickdude](https://github.com/maverickdude))
+
+#### Authors: 1
+
+- Uma Shankar ([@maverickdude](https://github.com/maverickdude))
+
+---
+
+# v4.2.6 (Tue Apr 15 2025)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, Jan Kuppens ([@JanKups](https://github.com/JanKups)), for all your work!
+
+#### 🐛 Bug Fix
+
+- Fixed Build fails (Storybook) - fresh install #517 [#520](https://github.com/haydenbleasel/next-forge/pull/520) ([@JanKups](https://github.com/JanKups))
+
+#### Authors: 1
+
+- Jan Kuppens ([@JanKups](https://github.com/JanKups))
+
+---
+
+# v4.2.5 (Mon Apr 14 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Update pnpm-lock.yaml ([@haydenbleasel](https://github.com/haydenbleasel))
+- Build fixes ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v4.2.4 (Mon Apr 14 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Remove Prisma client from app ([@haydenbleasel](https://github.com/haydenbleasel))
+- Bump deps except Prisma ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update structure.mdx ([@haydenbleasel](https://github.com/haydenbleasel))
+- Upgrade shadcn/ui ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v4.2.3 (Sun Apr 06 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of https://github.com/haydenbleasel/next-forge ([@haydenbleasel](https://github.com/haydenbleasel))
+- Resolves #499 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Update shadcn CSS, resolved #438 ([@haydenbleasel](https://github.com/haydenbleasel))
+- Fix typo ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v4.2.2 (Sun Apr 06 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Resolves #501 ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 1
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v4.2.1 (Sun Apr 06 2025)
+
+#### 🐛 Bug Fix
+
+- Fixed Issue #500 [#513](https://github.com/haydenbleasel/next-forge/pull/513) ([@mathewlewallen](https://github.com/mathewlewallen) [@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 2
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- mathewlewallen ([@mathewlewallen](https://github.com/mathewlewallen))
+
+---
+
+# v4.2.0 (Wed Apr 02 2025)
+
+#### 🚀 Enhancement
+
+- Bump vitest from 3.0.7 to 3.1.1 [#503](https://github.com/haydenbleasel/next-forge/pull/503) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 1
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+
+---
+
+# v4.1.0 (Tue Apr 01 2025)
+
+#### 🚀 Enhancement
+
+- Bump shiki from 3.1.0 to 3.2.1 [#504](https://github.com/haydenbleasel/next-forge/pull/504) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### Authors: 1
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+
+---
+
+# v4.0.0 (Tue Apr 01 2025)
+
+#### 💥 Breaking Change
+
+- Bump react-email from 3.0.7 to 4.0.2 [#507](https://github.com/haydenbleasel/next-forge/pull/507) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🚀 Enhancement
+
+- Bump @liveblocks/node from 2.20.0 to 2.22.2 [#502](https://github.com/haydenbleasel/next-forge/pull/502) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump react-markdown from 10.0.1 to 10.1.0 [#505](https://github.com/haydenbleasel/next-forge/pull/505) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump fumadocs-core from 15.0.15 to 15.2.1 [#510](https://github.com/haydenbleasel/next-forge/pull/510) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### 🐛 Bug Fix
+
+- Bump @types/node from 22.13.9 to 22.13.14 [#506](https://github.com/haydenbleasel/next-forge/pull/506) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @tailwindcss/postcss from 4.0.12 to 4.0.17 [#508](https://github.com/haydenbleasel/next-forge/pull/508) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+- Bump @storybook/blocks from 8.6.4 to 8.6.11 [#509](https://github.com/haydenbleasel/next-forge/pull/509) ([@dependabot[bot]](https://github.com/dependabot[bot]))
+
+#### ⚠️ Pushed to `main`
+
+- Update pnpm-lock.yaml ([@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 2
+
+- [@dependabot[bot]](https://github.com/dependabot[bot])
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+
+---
+
+# v3.3.9 (Tue Mar 25 2025)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, mathewlewallen ([@mathewlewallen](https://github.com/mathewlewallen)), for all your work!
+
+#### 🐛 Bug Fix
+
+- feat: amend internationalization middleware and index. Still uses nex… [#491](https://github.com/haydenbleasel/next-forge/pull/491) ([@mathewlewallen](https://github.com/mathewlewallen) [@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 2
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- mathewlewallen ([@mathewlewallen](https://github.com/mathewlewallen))
+
+---
+
 # v3.3.8 (Wed Mar 19 2025)
 
 :tada: This release contains work from a new contributor! :tada:

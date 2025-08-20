@@ -1,1 +1,3 @@
-export { RichText as Body } from 'basehub/react-rich-text';
+import { RichText } from 'basehub/react-rich-text';
+
+export const Body = RichText;
